@@ -1,0 +1,6 @@
+{
+  "name": "Hammy Gacha",
+  "description": "A kawaii hamster capsule toy game where players spin for 50 cute SVG treasures, earn coins, and complete their collection!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
